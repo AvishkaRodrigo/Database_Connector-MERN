@@ -5,6 +5,6 @@ create a file in the same directory called '.env' and include following code lin
 
 🛑 MONGODB_URL=mongodb+srv://<username>:<cluster password>@cluster0.ixdsr.mongodb.net/<databasename>?retryWrites=true&w=majority
 
-⭐ username :- mongodb database acc username
-⭐ password :- mongodb database acc password
+⭐ username :- mongodb database acc username <br>
+⭐ password :- mongodb database acc password <br>
 ⭐ databasename :- mongodb database acc name
